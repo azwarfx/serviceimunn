@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: azwarazuhri
+Build-Jdk: 10.0.1
+Implementation-Title: azwar
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: msg.imunn
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/azwar
+Created-By: Maven Integration for Eclipse
+
